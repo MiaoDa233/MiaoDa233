@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @MiaoDa233
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi there! I'm a student passionate about coding and technology. 
+- 👀 I enjoy learning new programming languages and exploring different areas of computer science. 
+- 🌱 On Github, you can find some of my personal projects, including web development and data analysis. 
+- 📫 I'm always open to collaborations and feedback, so don't hesitate to reach out!
 
-<!---
-MiaoDa233/MiaoDa233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
